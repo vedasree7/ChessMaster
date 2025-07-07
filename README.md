@@ -93,12 +93,4 @@ where `(x1,y1)` and `(x2,y2)` are the closest pair.
 
 ## 📄 Reference
 
-Project source files:  
-- `Sorting.hpp`  
-- `ChessSolver.hpp`  
-- `ClosestSolver.hpp`  
-- `main.cpp`
-
----
-
 [Chess Master Challenge](https://github.com/user-attachments/files/21110185/Assignment.Week.7.1.pdf)
